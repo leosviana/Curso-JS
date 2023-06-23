@@ -1,4 +1,4 @@
-![image](https://github.com/leosviana/Curso-JS/blob/main/extras/imagem-javascript.jpg)
+![image](https://github.com/leosviana/Curso-JS/blob/main/extras/imagem-js.jpg)
 
 # :books: Curso-JS-Iniciante
 
