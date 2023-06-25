@@ -11,7 +11,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 04](https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=4) O que o JavaScript é capaz de fazer? - Curso JavaScript #01<br>
 ### :film_strip: [Assistir Vídeo Aula 05](https://www.youtube.com/watch?v=rUTKomc2gG8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=5) JavaScript: como chegamos até aqui? - Curso JavaScript #02 - Curso JavaScript #01<br>
 ### :film_strip: [Assistir Vídeo Aula 06](https://www.youtube.com/watch?v=FdePtO5JSd0&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=6) Dando os primeiros passos - Curso JavaScript #03<br>
-### :film_strip: [Assistir Vídeo Aula 07](https://www.youtube.com/watch?v=OmmJBfcMJA8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=7) Criando o seu primeiro script - Curso JavaScript #04<br>Fim do Módulo A: Conhecendo o JavaScript<br>
+### :film_strip: [Assistir Vídeo Aula 07](https://www.youtube.com/watch?v=OmmJBfcMJA8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=7) Criando o seu primeiro script - Curso JavaScript #04<br><br>Fim do Módulo A: Conhecendo o JavaScript<br>
 
 # :scroll: Exercícios
 ### Exercício 01: Código :arrow_right: [Meu Primeiro Exercício](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20A/exercicios/aula04/ex001.html)<br> 
