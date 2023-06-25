@@ -15,4 +15,4 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 
 # :scroll: Exercícios
 ### Exercício 01: Código :arrow_right: [Meu Primeiro Exercício](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20A/exercicios/aula04/ex001.html)<br> 
-:point_right: [Olá Mundo!](https://github.com/leosviana/Curso-JS-Iniciante/tree/main/Modulo%20A/exercicios/aula04/ex001.html)<br>
+:point_right: [Olá Mundo!](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20A/exercicios/aula04/ex001.html)<br>
