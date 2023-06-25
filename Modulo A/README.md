@@ -14,5 +14,5 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 07](https://www.youtube.com/watch?v=OmmJBfcMJA8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=7) Criando o seu primeiro script - Curso JavaScript #04<br>Fim do Módulo A: Conhecendo o JavaScript<br>
 
 # :scroll: Exercícios
-### Exercício 01: Código :arrow_right: [Meu Primeiro Exercício](https://github.com/leosviana/Curso-JS/blob/main/Modulo%2A/exercicios/ex001/index.html)<br>
-:point_right: [Olá Mundo!](https://github.com/leosviana/Curso-JS/Modulo%2A/exercicios/ex001/index.html)<br>
+### Exercício 01: Código :arrow_right: [Meu Primeiro Exercício](https://github.com/leosviana/Curso-JS/blob/main/Modulo%2A/exercicios/ex001/index.html)<br> 
+:point_right: [Olá Mundo!](https://github.com/leosviana/Curso-JS-Iniciante/tree/main/Modulo%20A/exercicios/aula04/ex001/index.html)<br>
