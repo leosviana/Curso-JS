@@ -116,9 +116,12 @@ Ordem de execução das regras: operadores aritméticos, operadores relacionais 
 
 ########################### MODULO C ###########################
 DOM (DOCUMENT OBJECT MODEL):
+UTILIZADO PARA ALTERAR OS ELEMENTOS HTML (FRONTEND)
 Selecionar por:
-- Marca = getElementsByTagName()
-- ID
-- Nome
-- Classe
-- Seletor
+- Marca = getElementsByTagName() - Utiliza um conjunto de objetos. Representado por [0],[1],...
+- ID = getElementById() - Utilizar um objeto inteiro ou uma familia de objeto.
+- Nome = getElementsByName() - Utiliza um conjunto de objetos. Representado por [0],[1],...
+- Classe = getElementsByClassName() - Utiliza um conjunto de objetos. Representado por [0],[1],...
+- Seletor = 
+  querySelector() - Retorna o primeiro ou unico elemento do objeto.
+  querySelectorAll() - Retorna todos os elementos do objeto.
