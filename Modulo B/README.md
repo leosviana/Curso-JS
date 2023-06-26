@@ -13,8 +13,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 
 # :scroll: Exercícios
 ### Exercício 01: Código :arrow_right: [Exercício 2](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20B/exercicios/aula06/ex002.html)<br> 
-:point_right: [Exercício 2](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20A/exercicios/aula06/ex002.html)<br>
+:point_right: [Exercício 2](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20B/exercicios/aula06/ex002.html)<br>
 ### Exercício 02: Código :arrow_right: [Exercício 3](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20B/exercicios/aula06/ex003.html)<br> 
-:point_right: [Exercício 3](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20A/exercicios/aula06/ex003.html)<br>
+:point_right: [Exercício 3](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20B/exercicios/aula06/ex003.html)<br>
 ### Exercício 03: Código :arrow_right: [Exercício 4](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20B/exercicios/aula06/ex004.html)<br> 
-:point_right: [Exercício 4](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20A/exercicios/aula06/ex004.html)<br>
+:point_right: [Exercício 4](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20B/exercicios/aula06/ex004.html)<br>
