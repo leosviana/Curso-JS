@@ -12,13 +12,18 @@
         }
     </style>
 </head>
-<body> 
-   
+<body>   
     <script>
         var nome = window.prompt('Qual é o seu nome?');
-         document.write(`Olá <Strong>${nome}</strong>. Seu nome tem ${nome.length} letras.</br>`); //EXIBE A QTD. CARACTERES DO NOME
-         document.write(`Seu nome em maiúsculo é ${nome.toUpperCase()}. </br>`); //ALTERA O NOME PARA MAIUSCULO
-         document.write(`Seu nome em minúsculo é ${nome.toLowerCase()}. </br>`); //ALTERA O NOME PARA MINUSCULO
+        var salario = Number(window.prompt('Qual é o seu salario?'));
+
+        document.write(`Olá <Strong>${nome}</strong>. Seu nome tem ${nome.length} letras.</br>`); //EXIBE A QTD. CARACTERES DO NOME
+        document.write(`Seu nome em maiúsculo é ${nome.toUpperCase()}. </br>`); //ALTERA O NOME PARA MAIUSCULO
+        document.write(`Seu nome em minúsculo é ${nome.toLowerCase()}. </br></br>`); //ALTERA O NOME PARA MINUSCULO
+        
+        document.write(`Seu salario é ${salario.toFixed(2)} </br>`); //COM . NAS CASAS DECIMAIS
+        document.write(`Seu salario é ${salario.toFixed(2).replace('.', ',')} </br>`); //COM , NAS CASAS DECIMAIS
+        document.write(`Seu salario é ${salario.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'}).replace(',', '.')}`); //FORMATO DINHEIRO - REAL
     </script>
 </body>
 </html>
