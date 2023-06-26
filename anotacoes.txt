@@ -87,7 +87,7 @@ OPERADORES RELACIONAIS:
 IDENTIDADE:
 5 == 5 (TRUE - Mesmo valor)
 5 == '5' (TRUE - Mesmo valor. Javascript olha o valor)
-5 === '5' (FALSE - Mesmo valor e tipo diferente)
+5 === '5' (FALSE - Igualdade restrita: Mesmo valor e tipo diferente)
 
 OPERADORES LÓGICOS:
 ! (Negação)
@@ -111,6 +111,8 @@ TESTE ? TRUE : FALSE
 Se teste = true, faça isso...
 Se teste = false, faça aquilo...
 Exemplo: (Média >= 5) ? 'Aprovado' : 'Reprovado'
+
+Ordem de execução das regras: operadores aritméticos, operadores relacionais e operadores lógicos
 
 ########################### MODULO C ###########################
 DOM (DOCUMENT OBJECT MODEL):
