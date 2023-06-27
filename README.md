@@ -12,4 +12,4 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 # :file_folder: [Módulo F]<!-- (https://github.com/leosviana/Curso-JS-Iniciante/tree/main/Modulo%20F/README.md)<br> --><br>
 
 # :information_source: Referência de Sites
-[MDN Web Docs](https://developer.mozilla.org/pt-BR/) <a target="blank_"><br>
+[MDN Web Docs - Eventos DOM](https://developer.mozilla.org/pt-BR/docs/Web/Events) <a target="blank_"><br>
