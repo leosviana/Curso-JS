@@ -14,3 +14,5 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 :point_right: [Exercício 5](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20C/exercicios/aula09/ex005.html)<br>
 ### Exercício 06: Código :arrow_right: [Exercício 6](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20C/exercicios/aula10/ex006.html)<br> 
 :point_right: [Exercício 6](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20C/exercicios/aula10/ex006.html)<br>
+### Exercício 07: Código :arrow_right: [Exercício 7](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20C/exercicios/aula10/ex007.html)<br> 
+:point_right: [Exercício 7](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20C/exercicios/aula10/ex007.html)<br>
