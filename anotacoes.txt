@@ -138,14 +138,34 @@ function clicar(){
 ...
 
 ########################### MODULO D ###########################
-Condição simples:
+CONDIÇÃO SIMPLES (if):
 if(var > 10){
   faça isso...
 }
 
-Condição composta:
+CONDIÇÃO COMPOSTA (if..else):
 if(var > 10){
   faça isso...
 }else{
   senão faça aquilo...
+}
+
+CONDIÇÃO ANINHADA (if..elseif..else):
+if(var > 10){
+  faça isso...
+  }else if{
+    senão faça aquilo...
+}else{
+  senão fala aquilo outro...
+}
+
+CONDIÇÃO MULTIPLA (switch..case):
+switch(var){
+  case 1: ...
+  break;
+  case 2: ...
+  break;
+  ...
+  default: ...
+  break;
 }
