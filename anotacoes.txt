@@ -136,3 +136,16 @@ function clicar(){
   a.innerText('Clicou!');
 }
 ...
+
+########################### MODULO D ###########################
+Condição simples:
+if(var > 10){
+  faça isso...
+}
+
+Condição composta:
+if(var > 10){
+  faça isso...
+}else{
+  senão faça aquilo...
+}
