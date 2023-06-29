@@ -16,7 +16,7 @@
     </style>
 </head>
 <body>
-    <!-- ######################## PRIMEIRA FORMA ######################## -->
+    <!-- ######################## PRIMEIRA FORMA ######################## 
     <div id="area" onclick="clicar()" onmouseenter="entrar()" onmouseout="sair()">
         Interaja...
     </div>
@@ -35,8 +35,32 @@
             a.style.backgroundColor = 'red';
         }
     </script>
+    -->
 
-    <!-- ######################## SEGUNDA FORMA ######################## -->
+    <!-- ######################## SEGUNDA MELHOR FORMA ######################## -->
+    <div id="area">
+        Interaja 2...
+    </div>
+    <script>
+        var a = window.document.getElementById('area');
+        a.addEventListener('click', clicar);
+        a.addEventListener('mouseenter', entrar);
+        a.addEventListener('mouseout', sair);
+
+        var a = window.document.getElementById('area');
+        function clicar(){            
+            a.innerText = 'Clicou!';
+            a.style.backgroundColor = 'blue';
+        }
+        function entrar(){
+            a.innerText = 'Entrar';
+            a.style.backgroundColor = 'green';
+        }
+        function sair(){
+            a.innerText = 'Sair';
+            a.style.backgroundColor = 'red';
+        }
+    </script>
     
 </body>
 </html>
