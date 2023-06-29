@@ -125,3 +125,14 @@ Selecionar por:
 - Seletor = 
   querySelector() - Retorna o primeiro ou unico elemento do objeto.
   querySelectorAll() - Retorna todos os elementos do objeto.
+
+Executa um evento do mouse:
+addEventListener('click', clicar); //NÃO ESQUECER DE CRIAR A FUNÇÃO "clicar" PARA EXECUTAR A AÇÃO
+addEventListener('mouseenter', entrar); //NÃO ESQUECER DE CRIAR A FUNÇÃO "entrar" PARA EXECUTAR A AÇÃO
+addEventListener('mouseout', sair); //NÃO ESQUECER DE CRIAR A FUNÇÃO "sair" PARA EXECUTAR A AÇÃO
+
+FUNÇÕES:
+function clicar(){
+  a.innerText('Clicou!');
+}
+...
