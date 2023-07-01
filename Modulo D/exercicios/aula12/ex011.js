@@ -1,4 +1,6 @@
 //EXERCICIO 011 - CONDIÇÃO ANINHADA
+//VOTAÇÃO
+
 var idade = 66;
 
 console.log(`Você tem ${idade} anos.`)
