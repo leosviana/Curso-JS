@@ -1,4 +1,6 @@
 //EXERCICIO 013 - CONDIÇÃO MULTIPLA
+//DIA DA SEMANA
+
 var agora = new Date();
 var diaSem = agora.getDay(); //1 - segunda, 2 - terça, 3 - quarta, 4 - quinta, 5 - sexta, 6 - sabado, 7 - domingo
 
