@@ -14,12 +14,12 @@
 </head>
 <body>
     <h1>Iniciando estudo com DOM</h1>
-    <p>Aqui vai o resultador</p> <!-- PRIMEIRO PARÁGRAFO -->
+    <p>Aqui vai o resultado</p> <!-- PRIMEIRO PARÁGRAFO -->
     <p>Aprendendo a usar o <strong>DOM</strong> em JavaScript.</p> <!-- PRIMEIRO PARÁGRAFO -->
-    <div id="div1">Primeira div</div>
-    <div name="div2">Segunda div</div>
-    <div class="div3">Terceira div</div>
-    <div id="div4">Quarta div</div>
+    <div id="div1">DIV1 - Primeira div</div>
+    <div name="div2">DIV2 - Segunda div</div>
+    <div class="div3">DIV3 - Terceira div</div>
+    <div id="div4">DIV4 - Quarta div</div>
     <script>
         window.document.write('</br> charset: ' + window.document.charset + '</br>'); //EXIBE QUAL TIPO DE CHARSET USADO NA PAGINA
         window.document.write('linguagem: ' + window.navigator.language + '</br>'); //EXIBE A LINGUAGEM USADA NA PAGINA
@@ -38,16 +38,16 @@
         // ################### ID - getElementById ###################
         var d1 = window.document.getElementById('div1'); //ARMAZENA O ID DA DIV 1
         d1.style.background = 'green'; //ALTERA A COR DE FUNDO DO TEXTO DA DIV PARA VERDE
-        d1.innerText = 'Estou aguardando...'; //ALTERA O TEXTO DE DENTRO DA DIV
+        d1.innerText = 'DIV1 - Estou aguardando...'; //ALTERA O TEXTO DE DENTRO DA DIV
         // var d = window.document.getElementById('div1').innerText('Estou aguardando...'); //OU USAR COMANDO SIMPLIFICADO
 
         // ################### NOME - getElementByName ###################
         var d2 = window.document.getElementsByName('div2')[0]; //ARMAZENA O NOME DA DIV 2
-        d2.innerText = 'Olá!';
+        d2.innerText = 'DIV2 - Olá!';
 
         // ################### CLASSE - getElementsByClassName ###################
         var d3 = window.document.getElementsByClassName('div3')[0]; //ARMAZENA A CLASSE DA DIV 3
-        d3.innerText = 'Alterando texto da div 3...'
+        d3.innerText = 'DIV3 - Alterando texto da div 3...'
 
         // ################### SELETOR - querySelector() ou querySelectorAll() ###################
         var d4 = window.document.querySelector('div#div4'); //ARMAZENA O ID DA DIV 4 USANDO SINTAXE CSS
