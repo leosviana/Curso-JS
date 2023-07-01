@@ -1,4 +1,6 @@
 //EXERCICIO 008 - CONDIÇÃO SIMPLES
+//VELOCIDADE
+
 console.log('O console funcionou corretamente!');
 
 var velocidade = 40.5
