@@ -1,4 +1,6 @@
 //EXERCICIO 009 - CONDIÇÃO COMPOSTA
+//MEU PAÍS
+
 var pais = 'EUA';
 
 console.log(`Vivendo em ${pais}`)
