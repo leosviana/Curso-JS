@@ -22,6 +22,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 :point_right: [Exercício 12](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20D/exercicios/aula12/ex012.js)<br>
 ### Exercício 13: Código :arrow_right: [Exercício 13](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20D/exercicios/aula12/ex013.js)<br> 
 :point_right: [Exercício 13](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20D/exercicios/aula12/ex013.js)<br>
+### Exercício 14: Código :arrow_right: [Exercício 14](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20D/exercicios/ex014/modelo.html)<br> 
+:point_right: [Exercício 14](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20D/exercicios/ex014/modelo.html)<br>
 
 ### Exercício Prático 1: Código :arrow_right: [Exercício Prático 1](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20D/exercicios/aula11/exPratico1.html)<br> 
 :point_right: [Exercício Prático 1](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20D/exercicios/aula11/exPratico1.html)<br>
