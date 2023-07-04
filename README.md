@@ -8,7 +8,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 # :file_folder: [Módulo B](https://github.com/leosviana/Curso-JS-Iniciante/tree/main/Modulo%20B/README.md)<br>
 # :file_folder: [Módulo C](https://github.com/leosviana/Curso-JS-Iniciante/tree/main/Modulo%20C/README.md)<br>
 # :file_folder: [Módulo D](https://github.com/leosviana/Curso-JS-Iniciante/tree/main/Modulo%20D/README.md)<br>
-# :file_folder: [Módulo E]<!-- (https://github.com/leosviana/Curso-JS-Iniciante/tree/main/Modulo%20E/README.md)<br> --><br>
+# :file_folder: [Módulo E](https://github.com/leosviana/Curso-JS-Iniciante/tree/main/Modulo%20E/README.md)<br>
 # :file_folder: [Módulo F]<!-- (https://github.com/leosviana/Curso-JS-Iniciante/tree/main/Modulo%20F/README.md)<br> --><br>
 
 # :information_source: Referência de Sites
