@@ -169,3 +169,18 @@ switch(var){
   default: ...
   break;
 }
+
+########################### MODULO E ###########################
+ESTRUTURA DE REPETIÇÃO:
+while(var <= 6){ //TESTA, DEPOIS EXECUTA
+  repetir isso...
+}
+
+do{ //EXECUTA, DEPOIS TESTA
+  repetir isso...
+}while(var <= 6)
+
+ESTRUTURA DE REPETIÇÃO COM VARIÁVEL DE CONTROLE:
+for(contador = 1; contador <=6; contador++){
+  repetir isso...
+}
