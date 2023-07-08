@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Launch Program",
-            "program": "${workspaceFolder}/Modulo E/exercicios/aula14/ex018/script.js",
+            "program": "${workspaceFolder}/Modulo E/exercicios/aula14/ex019/script.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
