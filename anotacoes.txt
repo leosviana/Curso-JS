@@ -184,3 +184,5 @@ ESTRUTURA DE REPETIÇÃO COM VARIÁVEL DE CONTROLE:
 for(contador = 1; contador <=6; contador++){
   repetir isso...
 }
+
+########################### MODULO F ###########################
