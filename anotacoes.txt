@@ -186,3 +186,19 @@ for(contador = 1; contador <=6; contador++){
 }
 
 ########################### MODULO F ###########################
+VARIÁVEIS COMPOSTAS:
+  É um ARRAY(VETOR) com ELEMENTO contendo um KEY(ÍNDICE/CHAVE) em cada CONTEÚDO/VALOR.
+
+Exemplo e declaração:
+  let numeros = [5, 8, 4]; //VETOR "numeros" com ÍNDICE "0, 1 e 2" com os ELEMENTOS "5, 8 e 4".
+  let vaga = ['carro1', 'carro2', 'carro3']; //STRING
+
+numero[3] = 8 //INSERE O VALOR 8 NO ELEMENTO 3
+numero.push(6) //METODO QUE INSERE UM VALOR SEMPRE NO ULTIMO ELEMENTO DO VETOR
+numero.length //ATRIBUTO DE COMPRIMENTO: SABER A QUANTIDADE DE ELEMENTO DO VETOR
+numero.sort() //METODO INTERNO DE VETOR QUE ORDENA OS VALORES EM ORDEM CRESCENTE DENTRO DOS ELEMENTOS DO VETOR
+  let numeros = [5, 8, 4, 3, 9]  >>> let numeros = [3, 4, 5, 8, 9]
+
+
+
+
