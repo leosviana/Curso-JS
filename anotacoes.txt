@@ -185,6 +185,12 @@ for(contador = 1; contador <=6; contador++){
   repetir isso...
 }
 
+FOR SIMPLIFICADO:
+let num = [8, 1, 7, 4, 2, 9]; //ARRAY
+for(let pos in num){ //PARA CADA POSIÇÃO DENTRO(IN) DO ARRAY NUMERO FAÇA... (FUNCIONA APENAS PARA ARRAY OU OBJETO)
+    console.log(`${num[pos]}`);
+}
+
 ########################### MODULO F ###########################
 VARIÁVEIS COMPOSTAS:
   É um ARRAY(VETOR) com ELEMENTO contendo um KEY(ÍNDICE/CHAVE) em cada CONTEÚDO/VALOR.
@@ -195,10 +201,13 @@ Exemplo e declaração:
 
 numero[3] = 8 //INSERE O VALOR 8 NO ELEMENTO 3
 numero.push(6) //METODO QUE INSERE UM VALOR SEMPRE NO ULTIMO ELEMENTO DO VETOR
-numero.length //ATRIBUTO DE COMPRIMENTO: SABER A QUANTIDADE DE ELEMENTO DO VETOR
+numero.length //ATRIBUTO DE COMPRIMENTO: SABER A QUANTIDADE DE ELEMENTOS DO VETOR
 numero.sort() //METODO INTERNO DE VETOR QUE ORDENA OS VALORES EM ORDEM CRESCENTE DENTRO DOS ELEMENTOS DO VETOR
   let numeros = [5, 8, 4, 3, 9]  >>> let numeros = [3, 4, 5, 8, 9]
-
+numero.indexOf(4) //IDENTIFICAR ONDE ESTÁ O VALOR "3" E EXIBIR O ÍNDICE/CHAVE DO VETOR.
+  let numeros = [5, 8, 4, 3, 9] >> INDICE 2
+numero.indexOf(2) //IDENTIFICAR ONDE ESTÁ O VALOR "2" E EXIBIR O ÍNDICE/CHAVE DO VETOR.
+  let numeros = [5, 8, 4, 3, 9] >> O VALOR 2 NÃO EXISTE, ENTÃO O RESULTADO É -1
 
 
 
