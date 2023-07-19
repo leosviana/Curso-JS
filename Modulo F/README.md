@@ -13,5 +13,17 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 33](https://www.youtube.com/watch?v=roP93FA-NgU&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=33) Próximos Passos - Curso JavaScript #17<br><br>Fim do Módulo F - Módulo F - Avançando os estudos em JavaScript<br>
 
 # :scroll: Exercícios
-### Exercício 16: Código :arrow_right: [Exercício 16](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20D/exercicios/aula13/ex016.js)<br> 
-:point_right: [Exercício 16](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20D/exercicios/aula13/ex016.js)<br>
+### Exercício 20: Código :arrow_right: [Exercício 20](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20D/exercicios/aula15/ex020.js)<br> 
+:point_right: [Exercício 20](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20D/exercicios/aula15/ex020.js)<br>
+### Exercício 21: Código :arrow_right: [Exercício 21](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20D/exercicios/aula15/ex021.js)<br> 
+:point_right: [Exercício 21](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20D/exercicios/aula15/ex021.js)<br>
+### Exercício 22: Código :arrow_right: [Exercício 22](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20D/exercicios/aula16/ex022.js)<br> 
+:point_right: [Exercício 22](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20D/exercicios/aula16/ex022.js)<br>
+### Exercício 23: Código :arrow_right: [Exercício 23](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20D/exercicios/aula16/ex023.js)<br> 
+:point_right: [Exercício 23](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20D/exercicios/aula16/ex023.js)<br>
+### Exercício 24: Código :arrow_right: [Exercício 24](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20D/exercicios/aula16/ex024.js)<br> 
+:point_right: [Exercício 24](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20D/exercicios/aula16/ex024.js)<br>
+### Exercício 25: Código :arrow_right: [Exercício 25](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20D/exercicios/aula16/ex025.js)<br> 
+:point_right: [Exercício 25](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20D/exercicios/aula16/ex025.js)<br>
+### Exercício 26: Código :arrow_right: [Exercício 26](https://github.com/leosviana/Curso-JS/blob/main/Modulo%20D/exercicios/aula16/ex026.js)<br> 
+:point_right: [Exercício 26](https://leosviana.github.io/Curso-JS-Iniciante/Modulo%20D/exercicios/aula16/ex026.js)<br>
