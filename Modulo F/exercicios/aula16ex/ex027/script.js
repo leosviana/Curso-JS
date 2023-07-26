@@ -26,6 +26,7 @@ function adicionar(){
         let item = document.createElement('option');
         item.text = `Valor ${num.value} adicionado.`;
         lista.appendChild(item);
+        res.innerHTML = '';
     }else{
         window.alert("Valor inválido ou já encontrado na lista.");
     }
@@ -38,7 +39,17 @@ function finalizar(){
         window.alert('Adicione valores antes de finalizar!');
     }else{
         let tot = valores.length;
-        
-        res.innerHTML += `<p>Ao todo, temos ${tot} números cadastrados.</p>`
+        let maior = valores[0];
+        let menor = valores[0];
+        for (let pos in  valores){
+            if (valores[pos] > maior)
+                maior = valores[pos]
+            if (valores[pos] < menor)
+                menor = valores[pos]
+        }
+        //res.innerHTML = ''        
+        res.innerHTML += `<p>O maior valor informado foi ${maior}</p>`
+        res.innerHTML += `<p>O menor valor informado foi ${menor}</p>`
+            res.innerHTML += `<p>Ao todo, temos ${tot} números cadastrados.</p>`;
     }
 }
