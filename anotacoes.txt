@@ -209,5 +209,16 @@ numero.indexOf(4) //IDENTIFICAR ONDE ESTÁ O VALOR "3" E EXIBIR O ÍNDICE/CHAVE 
 numero.indexOf(2) //IDENTIFICAR ONDE ESTÁ O VALOR "2" E EXIBIR O ÍNDICE/CHAVE DO VETOR.
   let numeros = [5, 8, 4, 3, 9] >> O VALOR 2 NÃO EXISTE, ENTÃO O RESULTADO É -1
 
+OBJETO:
+  É um VETOR que armazena qualquer tipo de elemento, inclusive funções.
 
-
+Exemplo e declaração:
+  let amigo{ //DECLARAÇÃO DE OBJETO
+    nome: 'José', //STRING
+    sexo: 'M',    //BOLEANO
+    idade: 30,    //INTEIRO
+    peso: 85.6,   //ROLEANO
+    engordar(p){  //FUNÇÃO
+      ...
+    }
+  }
