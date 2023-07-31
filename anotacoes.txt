@@ -2,7 +2,7 @@
 var (Variável)
 let (Variável - JS moderno)
 
-TIPOS DE DADOS:
+TIPOS DE DADOS (DATA TYPE):
 number - Variáveis númericas
   - 1 (inteiro)
   - 5.3 (real)
